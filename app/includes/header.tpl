@@ -58,12 +58,12 @@
 "logo" : "https://www.myetherwallet.com/images/logo-atheios.png",
 "description": "wallet.atheios.com is a free, open-source, client-side interface for generating Ethereum wallets &amp; more. Interact with the Ethereum blockchain easily &amp; securely.",
 "sameAs" : [
-  "https://wallet.atheios.com/",
+  "https://wallet.atheios.org/",
   "https://twitter.com/atheioschain",
   "https://medium.com/@atheios",
-  "https://github.com/atheioschain",
-  "https://github.com/atheioschain/etherwallet",
-  "https://atheios.com",
+  "https://github.com/athofficial",
+  "https://github.com/athofficial",
+  "https://atheios.org",
   "https://www.reddit.com/r/Atheios/",
   "https://scan.atheios.com/"
 ]
