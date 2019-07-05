@@ -45,16 +45,16 @@ nodes.customNodeObj = {
 nodes.nodeList = {
     'ath': {
         'name': 'Atheios',
-        'blockExplorerTX': 'https://scan.atheios.com/tx/[[txHash]]',
-        'blockExplorerAddr': 'https://scan.atheios.com/addr/[[address]]',
+        'blockExplorerTX': 'https://explorer.atheios.org/tx/[[txHash]]',
+        'blockExplorerAddr': 'https://explorer.atheios.org/addr/[[address]]',
         'type': nodes.nodeTypes.ATH,
         'eip155': true,
         'chainId': 1620,
         'tokenList': require('./tokens/athTokens.json'),
         'abiList': require('./abiDefinitions/athAbi.json'),
         'estimateGas': true,
-        'service': 'wallet.atheios.com',
-        'lib': new nodes.customNode('https://wallet.atheios.com', '8797')
+        'service': 'rpc.fallengravity.xyz',
+        'lib': new nodes.customNode('https://rpc.fallengravity.xyz', '443')
     }
     // 'eth_mew': {
     //     'name': 'ETH',
