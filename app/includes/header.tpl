@@ -59,7 +59,7 @@
 "description": "wallet.atheios.org is a free, open-source, client-side interface for generating Ethereum wallets &amp; more. Interact with the Ethereum blockchain easily &amp; securely.",
 "sameAs" : [
   "https://wallet.atheios.org/",
-  "https://twitter.com/AtheiosS",
+  "https://twitter.com/atheiosofficial",
   "https://medium.com/@atheios",
   "https://github.com/athofficial",
   "https://github.com/athofficial",
