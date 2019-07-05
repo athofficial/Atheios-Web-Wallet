@@ -3,18 +3,18 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>wallet.atheios.com</title>
-<meta property="og:title" content="wallet.atheios.com: Your Key to Atheios">
-<meta property="og:site_name" content="wallet.atheios.com: Your Key to Atheios">
-<meta name="twitter:title" content="wallet.atheios.com: Your Key to Atheios">
-<meta name="apple-mobile-web-app-title" content="wallet.atheios.com: Your Key to Atheios">
-<link href="https://wallet.atheios.com" rel="canonical">
-<meta content="https://wallet.atheios.com" property="og:url">
-<meta content="https://wallet.atheios.com" name="twitter:url">
+<title>wallet.atheios.org</title>
+<meta property="og:title" content="wallet.atheios.org: Your Key to Atheios">
+<meta property="og:site_name" content="wallet.atheios.org: Your Key to Atheios">
+<meta name="twitter:title" content="wallet.atheios.org: Your Key to Atheios">
+<meta name="apple-mobile-web-app-title" content="wallet.atheios.org: Your Key to Atheios">
+<link href="https://wallet.atheios.org" rel="canonical">
+<meta content="https://wallet.atheios.org" property="og:url">
+<meta content="https://wallet.atheios.org" name="twitter:url">
 <link rel="stylesheet" href="css/etherwallet-master.min.css">
 <script type="text/javascript" src="js/etherwallet-static.min.js"></script>
 <script type="text/javascript" src="js/etherwallet-master.js"></script>
-<meta name="description" content="wallet.atheios.com is based on MyEtherWallet (MEW), a free, open-source, client-side interface for generating Ethereum wallets & more. Interact with the Atheios blockchain easily & securely.">
+<meta name="description" content="wallet.atheios.org is based on MyEtherWallet (MEW), a free, open-source, client-side interface for generating Ethereum wallets & more. Interact with the Atheios blockchain easily & securely.">
 <meta property="og:description"  content="Free, open-source, client-side Atheios wallet. Enabling you to interact with the blockchain easily & securely.">
 <meta name="twitter:description" content="Free, open-source, client-side Atheios wallet. Enabling you to interact with the blockchain easily & securely.">
 <meta name="robots" content="index,follow">
@@ -26,13 +26,13 @@
 <link href="images/fav/manifest.json" rel="manifest">
 <link href="images/fav/safari-pinned-tab.svg" rel="mask-icon" color="#2f99b0">
 <link href="images/fav/favicon.ico" rel="shortcut icon">
-<meta name="apple-mobile-web-app-title" content="wallet.atheios.com &middot; Your Key to Atheios">
-<meta name="application-name" content="wallet.atheios.com">
+<meta name="apple-mobile-web-app-title" content="wallet.atheios.org &middot; Your Key to Atheios">
+<meta name="application-name" content="wallet.atheios.org">
 <meta name="msapplication-config" content="images/fav/browserconfig.xml">
 <meta name="theme-color" content="#1d6986">
 <meta name="apple-mobile-web-app-status-bar-style" content="#1d6986">
-<meta property="og:url" content="https://wallet.atheios.com" />
-<meta property="og:title" content="wallet.atheios.com  &middot; Your Key to Atheios" />
+<meta property="og:url" content="https://wallet.atheios.org" />
+<meta property="og:title" content="wallet.atheios.org  &middot; Your Key to Atheios" />
 <meta property="og:type" content="website">
 <meta property="og:image" content="/images/atheios-logo-banner.png" />
 <meta property="og:image" content="/images/logo-atheios.png" />
@@ -46,26 +46,26 @@
 {
 "@context": "http://schema.org",
 "@type" : "Organization",
-"name" : "wallet.atheios.com",
+"name" : "wallet.atheios.org",
 "legalName" : "Atheios",
-"url" : "https://wallet.atheios.com/",
+"url" : "https://wallet.atheios.org/",
 "contactPoint" : [{
   "@type" : "ContactPoint",
-  "email" : "contact@atheios.com",
-  "url"   : "https://wallet.atheios.com",
+  "email" : "contact@atheios.org",
+  "url"   : "https://wallet.atheios.org",
   "contactType" : "customer service"
 }],
 "logo" : "https://www.myetherwallet.com/images/logo-atheios.png",
-"description": "wallet.atheios.com is a free, open-source, client-side interface for generating Ethereum wallets &amp; more. Interact with the Ethereum blockchain easily &amp; securely.",
+"description": "wallet.atheios.org is a free, open-source, client-side interface for generating Ethereum wallets &amp; more. Interact with the Ethereum blockchain easily &amp; securely.",
 "sameAs" : [
   "https://wallet.atheios.org/",
-  "https://twitter.com/atheioschain",
+  "https://twitter.com/atheiosofficial",
   "https://medium.com/@atheios",
   "https://github.com/athofficial",
   "https://github.com/athofficial",
   "https://atheios.org",
   "https://www.reddit.com/r/Atheios/",
-  "https://scan.atheios.com/"
+  "https://scan.atheios.org/"
 ]
 }
 </script>
@@ -77,7 +77,7 @@
 @@if (site === 'mew' ) {
   <div class="small announcement annoucement-danger">
     <div class="container">
-      DON'T GET PHISHED, please! 🎣 Thank you! 🤗 BOOKMARK <a href="https://wallet.atheios.com"> wallet.atheios.com </a>
+      DON'T GET PHISHED, please! 🎣 Thank you! 🤗 BOOKMARK <a href="https://wallet.atheios.org"> wallet.atheios.org </a>
     </div>
   </div>
 }
