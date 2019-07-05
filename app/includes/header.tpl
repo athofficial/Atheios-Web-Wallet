@@ -65,7 +65,7 @@
   "https://github.com/athofficial",
   "https://atheios.org",
   "https://www.reddit.com/r/Atheios/",
-  "https://scan.atheios.org/"
+  "https://explorer.atheios.org/"
 ]
 }
 </script>
