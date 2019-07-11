@@ -23,7 +23,7 @@
        </div>
         <p> Buy a... </p>
         <div class="footer__pill-wrap footer__pill-custom-wrap">
-          <a class="footer__pill" href="https://www.ledger.com/products/ledger-nano-s" target="_blank" rel="noopener">LEDGER</a>
+          <a class="footer__pill" href="https://www.ledger.com/?r=eda7c183c5fc" target="_blank" rel="noopener">LEDGER</a>
           <a class="footer__pill" href="https://shop.trezor.io" target="_blank" rel="noopener">TREZOR</a>
           <!--
           <a class="footer__pill" href="https://trezor.io/?a=myetherwallet.com" target="_blank" rel="noopener">TREZOR</a>
