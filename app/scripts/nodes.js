@@ -46,7 +46,7 @@ nodes.nodeList = {
     'ath': {
         'name': 'Atheios',
         'blockExplorerTX': 'https://explorer.atheios.org/tx/[[txHash]]',
-        'blockExplorerAddr': 'https://explorer.atheios.org/addr/[[address]]',
+        'blockExplorerAddr': 'https://explorer.atheios.org/address/[[address]]',
         'type': nodes.nodeTypes.ATH,
         'eip155': true,
         'chainId': 1620,
