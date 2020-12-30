@@ -38,7 +38,7 @@
         <p>
           Multisig Community Wallet:
           <span class="mono wrap">
-            <a title="See this address on the blockchain explorer" href="https://explorer.atheios.org/addr/0x8aa77281e4854dafe6fa67bf38cbba2a27baa222" class="ext-etheraddresslookup-link" target="_blank">
+            <a title="See this address on the blockchain explorer" href="https://explorer.atheios.org/address/0x8aa77281e4854dafe6fa67bf38cbba2a27baa222" class="ext-etheraddresslookup-link" target="_blank">
               0x8aa77281e4854dafe6fa67bf38cbba2a27baa222
             </a>
           </span>
