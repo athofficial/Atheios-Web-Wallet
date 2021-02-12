@@ -53,8 +53,8 @@ nodes.nodeList = {
         'tokenList': require('./tokens/athTokens.json'),
         'abiList': require('./abiDefinitions/athAbi.json'),
         'estimateGas': true,
-        'service': 'rpc.fallengravity.xyz',
-        'lib': new nodes.customNode('https://rpc.fallengravity.xyz', '443')
+        'service': 'rpc.atheios.org',
+        'lib': new nodes.customNode('https://rpc.atheios.org/', '443')
     }
     // 'eth_mew': {
     //     'name': 'ETH',
